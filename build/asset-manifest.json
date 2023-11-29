@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6bf1cdd.css",
+    "main.js": "/static/js/main.d3025b8b.js",
+    "index.html": "/index.html",
+    "static/media/Tuning.svg": "/static/media/Tuning.60e58550d592097aa6f7865269c844d4.svg",
+    "static/media/Down.svg": "/static/media/Down.1d0cf6ea731625d136ef60f7a594b7ce.svg",
+    "main.a6bf1cdd.css.map": "/static/css/main.a6bf1cdd.css.map",
+    "main.d3025b8b.js.map": "/static/js/main.d3025b8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6bf1cdd.css",
+    "static/js/main.d3025b8b.js"
+  ]
+}
